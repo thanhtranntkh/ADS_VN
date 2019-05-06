@@ -1,6 +1,6 @@
 #####################################################################
-# abuse.ch SSLBL Botnet C2 IP Blacklist (IPs only)                  #
-# Last updated: 2019-05-03 08:56:37 UTC                             #
+# VN Blacklist (IPs only)                  #
+# Last updated: 2019-05-06 08:56:37 UTC                             #
 #                                                                   #
 # Terms Of Use: https://github.com/thanhtranntkh/ADS_VN             #
 # For questions please contact sslbl [at] abuse.ch                  #
