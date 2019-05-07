@@ -115,4 +115,4 @@ s.vnecdn.net
 vnecdn.net
 img.polyad.net
 polyad.net
-
+core.polyad.net
