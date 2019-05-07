@@ -111,3 +111,8 @@ ads.baodatviet.vn
 fast.accesstrade.com.vn
 accesstrade.com.vn
 
+s.vnecdn.net
+vnecdn.net
+img.polyad.net
+polyad.net
+
