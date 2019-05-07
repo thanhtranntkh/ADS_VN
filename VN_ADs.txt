@@ -107,4 +107,6 @@ services.adblox.net
 # ads.baodatviet.vn
 ads.baodatviet.vn
 
+fast.accesstrade.com.vn
+accesstrade.com.vn
 
