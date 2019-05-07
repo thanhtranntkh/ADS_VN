@@ -104,4 +104,7 @@ access.adblox.net
 adblox.net
 services.adblox.net
 
+# ads.baodatviet.vn
+ads.baodatviet.vn
+
 
