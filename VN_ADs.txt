@@ -77,9 +77,27 @@ novanet.vn
 cdn.adfox.vn
 adfox.vn
 
+# youradchoices
+youradchoices.com
 
+# adtimaserver
+adtimaserver.vn
 
+# blueserving
+blueserving.com
 
+#adtimaserver
+adtimaserver.vn
+
+#cdnviet
+cdnviet.com
+evidon.com
+eboundservices.com
+adcash.com
+gammaplatform.com
+innity.com
+# bit.ly
+bit.ly
 
 
 
