@@ -1,0 +1,12 @@
+
+#####################################################################
+# VN_Whitelist (IPs only)                  #
+# Last updated: 2019-05-06 08:56:37 UTC                             #
+#                                                                   #
+# Terms Of Use: https://github.com/thanhtranntkh/ADS_VN             #
+# For questions please contact sslbl [at] abuse.ch                  #
+#####################################################################
+#
+# DstIP
+108.177.125.188
+# END (53) entries
