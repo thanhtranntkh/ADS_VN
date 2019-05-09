@@ -116,6 +116,7 @@ vnecdn.net
 img.polyad.net
 polyad.net
 core.polyad.net
+go.polyad.net
 
 #new-cdn.blueseed.tv
 new-cdn.blueseed.tv
