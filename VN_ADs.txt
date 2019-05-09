@@ -119,7 +119,15 @@ core.polyad.net
 
 #new-cdn.blueseed.tv
 new-cdn.blueseed.tv
+d2.blueseed.tv
 blueseed.tv
 bit.ly
 
+# media.adnetwork.vn
+media.adnetwork.vn
+adnetwork.vn
+delivery.adnetwork.vn
 
+# t.ants.vn
+t.ants.vn
+ants.vn
