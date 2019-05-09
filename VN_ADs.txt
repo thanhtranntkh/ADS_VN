@@ -132,3 +132,11 @@ delivery.adnetwork.vn
 # t.ants.vn
 t.ants.vn
 ants.vn
+
+stc.za.zaloapp.com
+zaloapp.com
+baomoi-static.zadn.vn
+zadn.vn
+api.adtimaserver.vn
+adtimaserver.vn
+
