@@ -122,7 +122,7 @@ i-kinhdoanh.vnecdn.net
 imgraovat.vnecdn.net
 
 vnecdn.net
-
+html.polyad.net
 dst.polyad.net
 ds.polyad.net
 dsi.polyad.net
