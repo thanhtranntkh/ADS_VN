@@ -120,6 +120,8 @@ i-ngoisao.vnecdn.net
 i-ione.vnecdn.net
 i-kinhdoanh.vnecdn.net
 vnecdn.net
+dst.polyad.net
+ds.polyad.net
 la.vnecdn.net
 img.polyad.net
 polyad.net
