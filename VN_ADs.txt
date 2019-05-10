@@ -155,3 +155,6 @@ api.adtimaserver.vn
 adtimaserver.vn
 static.criteo.net
 
+# docbao.vn
+services.adblox.net
+
