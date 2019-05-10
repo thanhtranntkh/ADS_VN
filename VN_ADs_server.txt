@@ -163,4 +163,6 @@
 
 127.0.0.1   services.adblox.net
 127.0.0.1   vads.net.vn
-
+127.0.0.1   click.advertnative.com
+127.0.0.1   worker3.advertnative.com
+127.0.0.1   advertnative.com
