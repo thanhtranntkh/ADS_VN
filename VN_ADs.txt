@@ -112,7 +112,15 @@ fast.accesstrade.com.vn
 accesstrade.com.vn
 
 s.vnecdn.net
+d1.vnecdn.net
+i-giadinh.vnecdn.net
+i-sohoa.vnecdn.net
+i-sohoa.vnecdn.net
+i-ngoisao.vnecdn.net
+i-ione.vnecdn.net
+i-kinhdoanh.vnecdn.net
 vnecdn.net
+la.vnecdn.net
 img.polyad.net
 polyad.net
 core.polyad.net
@@ -139,4 +147,5 @@ baomoi-static.zadn.vn
 zadn.vn
 api.adtimaserver.vn
 adtimaserver.vn
+static.criteo.net
 
