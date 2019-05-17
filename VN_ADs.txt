@@ -157,4 +157,6 @@ static.criteo.net
 
 # docbao.vn
 services.adblox.net
-
+ants.rtb.adp3.net
+code.jquery.com
+f.novanet.vn
