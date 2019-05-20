@@ -162,3 +162,5 @@ code.jquery.com
 f.novanet.vn
 cumargold.vn
 cdn.adbro.me
+fmeta.vn
+realclick.vn
