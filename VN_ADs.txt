@@ -32,6 +32,7 @@ defaultdsp.admicro.vn
 sspapi.admicro.vn
 adx.admicro.vn
 adi.admicro.vn
+sso.admicro.vn
 
 #anthill
 e-vcdn.anthill.vn
