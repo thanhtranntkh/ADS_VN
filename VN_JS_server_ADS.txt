@@ -1,0 +1,16 @@
+# Ad filter list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+#novanet
+https://media1.admicro.vn/core/linkhaytk.js
+http://media1.admicro.vn/core/admcore.js
+http://media1.admicro.vn/core/adm_tracking.js?id=1
+http://media1.admicro.vn/core/core_sticky.js
+http://media1.admicro.vn/core/visen.js
+https://stats.g.doubleclick.net/dc.js
+https://www.google-analytics.com/ga.js
+http://b.scorecardresearch.com/beacon.js
+https://static.amcdn.vn/tka/cdn.js
+https://media1.admicro.vn/ads_codes/ads_code_1.ads
+http://static.amcdn.vn/core/lgnews.js
