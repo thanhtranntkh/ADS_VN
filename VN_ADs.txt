@@ -167,3 +167,6 @@ fmeta.vn
 realclick.vn
 acdn.adnxs.com
 code.createjs.com
+ns6.synerfy.vn
+ns7.synerfy.vn
+ns8.synerfy.vn
