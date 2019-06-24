@@ -166,3 +166,4 @@
 127.0.0.1   click.advertnative.com
 127.0.0.1   worker3.advertnative.com
 127.0.0.1   advertnative.com
+127.0.0.1   cdn.user-api.com
