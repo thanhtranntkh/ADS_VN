@@ -104,6 +104,7 @@ bit.ly
 # access.adblox.net
 access.adblox.net
 adblox.net
+
 services.adblox.net
 
 # ads.baodatviet.vn
@@ -170,3 +171,4 @@ code.createjs.com
 ns6.synerfy.vn
 ns7.synerfy.vn
 ns8.synerfy.vn
+cdn.user-api.com
