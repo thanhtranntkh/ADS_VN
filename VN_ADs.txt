@@ -174,4 +174,4 @@ ns8.synerfy.vn
 cdn.user-api.com
 hfdt.info
 gjvn.info
-it.ly
+bit.ly
