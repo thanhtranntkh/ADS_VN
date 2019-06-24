@@ -172,3 +172,4 @@ ns6.synerfy.vn
 ns7.synerfy.vn
 ns8.synerfy.vn
 cdn.user-api.com
+hfdt.info
