@@ -173,3 +173,5 @@ ns7.synerfy.vn
 ns8.synerfy.vn
 cdn.user-api.com
 hfdt.info
+gjvn.info
+it.ly
