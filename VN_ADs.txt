@@ -176,3 +176,15 @@ hfdt.info
 gjvn.info
 bit.ly
 cdnstoremedia.com
+
+# Google
+adssettings.google.com
+googleadservices.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+googleads.g.doubleclick.net
+gstatic.com
+gamma.cachefly.net
+
+
+
