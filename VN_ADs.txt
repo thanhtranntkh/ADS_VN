@@ -18,6 +18,7 @@ static.eclick.vn
 skylink.vn
 
 #admicro
+admatic.admicro.vn
 admicro.vn
 media1.admicro.vn
 media2.admicro.vn
