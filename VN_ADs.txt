@@ -192,4 +192,7 @@ media.yomedia.vn
 #pub.lavanetwork
 pub.lavanetwork.net
 
+media1.admicro.vn
+script.novanet.vn
+
 
