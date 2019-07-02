@@ -181,6 +181,7 @@ cdnstoremedia.com
 # Google
 adssettings.google.com
 googleadservices.com
+googletagmanager.com
 pagead2.googlesyndication.com
 tpc.googlesyndication.com
 googleads.g.doubleclick.net
@@ -188,5 +189,7 @@ gstatic.com
 gamma.cachefly.net
 
 media.yomedia.vn
+#pub.lavanetwork
+pub.lavanetwork.net
 
 
