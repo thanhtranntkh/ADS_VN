@@ -194,5 +194,7 @@ pub.lavanetwork.net
 
 media1.admicro.vn
 script.novanet.vn
-
+images.lavamedia.vn
+lavamedia.vn
+delivery.lavanetwork.net
 
