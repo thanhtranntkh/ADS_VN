@@ -1,0 +1,24 @@
+#####################################################################
+# C&C Blocklist                                           #
+# Generated on 2019-10-31 08:07:01 UTC                              #
+#                                                                   #
+# For questions please refer to:                                    #
+# https://itddcn.tk/blocklist/*                  #
+#####################################################################
+adobephotostage.com
+
+olk4.com
+apple-net.com
+wbemsystem.com
+yahoorealtors.com
+airdndvn.com
+officeproduces.com
+web.adobephotostage.com
+Web.officeproduces.com
+Up.officeproduces.com
+We.officeproduces.com
+Download.officeproduces.com
+geocities.jp
+update.olk4.com
+www.cab-sec.com
+
