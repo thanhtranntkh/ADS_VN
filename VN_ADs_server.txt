@@ -3,167 +3,164 @@
 # Contact: support [at] disconnect.me
 
 #novanet
-127.0.0.1   novanet.vn
-127.0.0.1   ads.novanet.vn
+novanet.vn
+ads.novanet.vn
 
 #adpia
-127.0.0.1   adpia.vn
+adpia.vn
 
 #eclick
-127.0.0.1   eclick.vn
-127.0.0.1   s.eclick.vn
-127.0.0.1   static.eclick.vn
+eclick.vn
+s.eclick.vn
+static.eclick.vn
 
 #skylink
-127.0.0.1   skylink.vn
+skylink.vn
 
 #admicro
-127.0.0.1   admicro.vn
-127.0.0.1   media1.admicro.vn
-127.0.0.1   media2.admicro.vn
-127.0.0.1   media3.admicro.vn
-127.0.0.1   media4.admicro.vn
-127.0.0.1   media5.admicro.vn
-127.0.0.1   sspapi.admicro.vn
-127.0.0.1   admarket.admicro.vn
-127.0.0.1   lg1.logging.admicro.vn
-127.0.0.1   pson.logging.admicro.vn
-127.0.0.1   defaultdsp.admicro.vn
-127.0.0.1   sspapi.admicro.vn
-127.0.0.1   adx.admicro.vn
-127.0.0.1   adi.admicro.vn
+admicro.vn
+media1.admicro.vn
+ media2.admicro.vn
+media3.admicro.vn
+media4.admicro.vn
+media5.admicro.vn
+sspapi.admicro.vn
+admarket.admicro.vn
+lg1.logging.admicro.vn
+pson.logging.admicro.vn
+defaultdsp.admicro.vn
+sspapi.admicro.vn
+adx.admicro.vn
+adi.admicro.vn
 
 #anthill
-127.0.0.1   e-vcdn.anthill.vn
-127.0.0.1   anthill.vn
+e-vcdn.anthill.vn
+anthill.vn
 
 #vietnamnetad
-127.0.0.1   log.vietnamnetad.vn
-127.0.0.1   vietnamnetad.vn
+log.vietnamnetad.vn
+vietnamnetad.vn
 
 #baotintuc
-127.0.0.1   cdnmedia.baotintuc.vn
+cdnmedia.baotintuc.vn
 
 #ad360
-127.0.0.1   ad360.vn
-127.0.0.1   provider.ad360.vn
-127.0.0.1   xcache.ad360.vn
-127.0.0.1   s.ad360.vn
+ad360.vn
+provider.ad360.vn
+xcache.ad360.vn
+s.ad360.vn
 
 #adnetwork
-127.0.0.1   adnetwork.vn
-127.0.0.1   media.adnetwork.vn
+adnetwork.vn
+media.adnetwork.vn
 
 #yomedia
-127.0.0.1   tracking.yomedia.vn
-127.0.0.1   yomedia.vn
+tracking.yomedia.vn
+yomedia.vn
 
 #lavanetwork
-127.0.0.1   lavanetwork.net
-127.0.0.1   delivery1.lavanetwork.net
+lavanetwork.net
+delivery1.lavanetwork.net
 
 #ants
-127.0.0.1   au.ants.vn
-127.0.0.1   t.ants.vn
-127.0.0.1   ants.vn
+au.ants.vn
+t.ants.vn
+ants.vn
 
 #adnet
-127.0.0.1   s0.adnet.vn
-127.0.0.1   adnet.vn
+s0.adnet.vn
+adnet.vn
 
 #novanet
-127.0.0.1   novanet.vn
+novanet.vn
 
 #adfox
-127.0.0.1   cdn.adfox.vn
-127.0.0.1   adfox.vn
+cdn.adfox.vn
+adfox.vn
 
 # youradchoices
-127.0.0.1   youradchoices.com
+youradchoices.com
 
 # adtimaserver
-127.0.0.1   adtimaserver.vn
+adtimaserver.vn
 
 # blueserving
-127.0.0.1   blueserving.com
+blueserving.com
 
 #adtimaserver
-127.0.0.1   adtimaserver.vn
+adtimaserver.vn
 
 #cdnviet
-127.0.0.1   cdnviet.com
-127.0.0.1   evidon.com
-127.0.0.1   eboundservices.com
-127.0.0.1   adcash.com
-127.0.0.1   gammaplatform.com
-127.0.0.1   innity.com
+cdnviet.com
+evidon.com
+eboundservices.com
+adcash.com
+gammaplatform.com
+innity.com
 # bit.ly
-127.0.0.1   bit.ly
+bit.ly
 
 # access.adblox.net
-127.0.0.1   access.adblox.net
-127.0.0.1   adblox.net
-127.0.0.1   services.adblox.net
+access.adblox.net
+adblox.net
+services.adblox.net
 
 # ads.baodatviet.vn
-127.0.0.1   ads.baodatviet.vn
+ads.baodatviet.vn
 
-127.0.0.1   fast.accesstrade.com.vn
-127.0.0.1   accesstrade.com.vn
+fast.accesstrade.com.vn
+accesstrade.com.vn
 
-127.0.0.1   s.vnecdn.net
-127.0.0.1   d1.vnecdn.net
-127.0.0.1   i-giadinh.vnecdn.net
-127.0.0.1   i-sohoa.vnecdn.net
-127.0.0.1   i-sohoa.vnecdn.net
-127.0.0.1   i-ngoisao.vnecdn.net
-127.0.0.1   i-ione.vnecdn.net
-127.0.0.1   i-kinhdoanh.vnecdn.net
-127.0.0.1   imgraovat.vnecdn.net
+s.vnecdn.net
+d1.vnecdn.net
+i-giadinh.vnecdn.net
+i-sohoa.vnecdn.net
+i-sohoa.vnecdn.net
+i-ngoisao.vnecdn.net
+i-ione.vnecdn.net
+i-kinhdoanh.vnecdn.net
+imgraovat.vnecdn.net
 
-127.0.0.1   vnecdn.net
-127.0.0.1   html.polyad.net
-127.0.0.1   dst.polyad.net
-127.0.0.1   ds.polyad.net
-127.0.0.1   dsi.polyad.net
-127.0.0.1   la.vnecdn.net
-127.0.0.1   img.polyad.net
-127.0.0.1   polyad.net
-127.0.0.1   core.polyad.net
-127.0.0.1   go.polyad.net
+vnecdn.net
+html.polyad.net
+dst.polyad.net
+ ds.polyad.net
+dsi.polyad.net
+la.vnecdn.net
+img.polyad.net
+polyad.net
+core.polyad.net
+go.polyad.net
 
 #new-cdn.blueseed.tv
-127.0.0.1   new-cdn.blueseed.tv
-127.0.0.1   d2.blueseed.tv
-127.0.0.1   blueseed.tv
-127.0.0.1   bit.ly
+new-cdn.blueseed.tv
+d2.blueseed.tv
+blueseed.tv
+
 
 # media.adnetwork.vn
-127.0.0.1   media.adnetwork.vn
-127.0.0.1   adnetwork.vn
-127.0.0.1   delivery.adnetwork.vn
+media.adnetwork.vn
+adnetwork.vn
+delivery.adnetwork.vn
 
 # t.ants.vn
-127.0.0.1   t.ants.vn
-127.0.0.1   ants.vn
+t.ants.vn
+ants.vn
 
-127.0.0.1   stc.za.zaloapp.com
-127.0.0.1   zaloapp.com
-127.0.0.1   baomoi-static.zadn.vn
+stc.za.zaloapp.com
+zaloapp.com
+baomoi-static.zadn.vn
 
-127.0.0.1   zadn.vn
-
-127.0.0.1   api.adtimaserver.vn
-
-127.0.0.1   adtimaserver.vn
-
-127.0.0.1   static.criteo.net
+zadn.vn
+api.adtimaserver.vn
+adtimaserver.vn
+ static.criteo.net
 
 # docbao.vn
 
-127.0.0.1   services.adblox.net
-127.0.0.1   vads.net.vn
-127.0.0.1   click.advertnative.com
-127.0.0.1   worker3.advertnative.com
-127.0.0.1   advertnative.com
-127.0.0.1   cdn.user-api.com
+services.adblox.net
+vads.net.vn
+click.advertnative.com
+worker3.advertnative.com
+advertnative.com
+cdn.user-api.com
