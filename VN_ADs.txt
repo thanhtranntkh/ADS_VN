@@ -197,4 +197,5 @@ script.novanet.vn
 images.lavamedia.vn
 lavamedia.vn
 delivery.lavanetwork.net
+cdnstoremedia.com
 
