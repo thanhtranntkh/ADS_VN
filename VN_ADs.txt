@@ -114,7 +114,7 @@ ads.baodatviet.vn
 fast.accesstrade.com.vn
 accesstrade.com.vn
 
-s.vnecdn.net
+# s.vnecdn.net
 d1.vnecdn.net
 i-giadinh.vnecdn.net
 i-sohoa.vnecdn.net
