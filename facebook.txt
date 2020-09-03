@@ -22,3 +22,7 @@ xx-fbcdn-shv-02-sin6.fbcdn.net
 xx-fbcdn-shv-01-sin6.fbcdn.net
 scontent-hkg4-1.xx.fbcdn.net
 video.fdad3-2.fna.fbcdn.net
+video.fdad2-1.fna.fbcdn.net
+facebook._9dls.__fb-dark-mode
+facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe
+facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe > div.AdBox.Ad.advert.post-ads
