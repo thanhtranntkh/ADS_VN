@@ -21,3 +21,4 @@ video.l3.fbcdn.net
 xx-fbcdn-shv-02-sin6.fbcdn.net
 xx-fbcdn-shv-01-sin6.fbcdn.net
 scontent-hkg4-1.xx.fbcdn.net
+video.fdad3-2.fna.fbcdn.net
