@@ -3,6 +3,18 @@ scontent.fdad3-1.fna.fbcdn.net
 static.xx.fbcdn.net
 scontent.fdad3-2.fna.fbcdn.net
 scontent.fdad3-3.fna.fbcdn.net
-
-
+video.ak.fbcdn.net
+video.l3.fbcdn.net
+*.fbcdn-video-a.akamaihd.net
+*.fbcdn-video-b-a.akamaihd.net
+*.fbcdn-video-d-a.akamaihd.net
+*.fbcdn-video-e-a.akamaihd.net
+*.fbcdn-video-f-a.akamaihd.net
+*.fbcdn-video-h-a.akamaihd.net
+*.fbcdn-video-i-a.akamaihd.net
+*.fbcdn-video-j-a.akamaihd.net
+*.fbcdn-video-m-a.akamaihd.net
+*.fbcdn-video-n-a.akamaihd.net
+*.fbcdn-video-o-a.akamaihd.net
+*.fbcdn-video-p-a.akamaihd.net
 
