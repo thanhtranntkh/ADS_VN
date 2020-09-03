@@ -1,4 +1,5 @@
 fbcdn.net
+*.fbcdn.net
 scontent.fdad3-1.fna.fbcdn.net
 static.xx.fbcdn.net
 scontent.fdad3-2.fna.fbcdn.net
@@ -17,4 +18,5 @@ video.l3.fbcdn.net
 *.fbcdn-video-n-a.akamaihd.net
 *.fbcdn-video-o-a.akamaihd.net
 *.fbcdn-video-p-a.akamaihd.net
-
+xx-fbcdn-shv-02-sin6.fbcdn.net
+xx-fbcdn-shv-01-sin6.fbcdn.net
