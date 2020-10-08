@@ -29,6 +29,3 @@ video.fdad2-1.fna.fbcdn.net
 video-hkg4-1.xx.fbcdn.net
 video-hkg4-2.xx.fbcdn.net
 video.fdad2-1.fna.fbcdn.net
-facebook._9dls.__fb-dark-mode
-facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe
-facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe > div.AdBox.Ad.advert.post-ads
