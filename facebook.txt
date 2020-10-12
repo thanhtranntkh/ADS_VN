@@ -1,6 +1,7 @@
 video.fdad3-1.fna.fbcdn.net
 video.fdad3-2.fna.fbcdn.net
 video.fdad3-2.fna.fbcdn.net
+video.fdad3-3.fna.fbcdn.net
 video.fdad1-1.fna.fbcdn.net
 video.fdad2-1.fna.fbcdn.net
 video-hkg4-1.xx.fbcdn.net
@@ -20,3 +21,5 @@ video.l3.fbcdn.net
 *.fbcdn-video-n-a.akamaihd.net
 *.fbcdn-video-o-a.akamaihd.net
 *.fbcdn-video-p-a.akamaihd.ne
+facebook.com/games/*
+*.xz.fbcdn.net
