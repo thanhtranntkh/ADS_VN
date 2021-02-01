@@ -23,3 +23,4 @@ video.l3.fbcdn.net
 *.fbcdn-video-p-a.akamaihd.ne
 facebook.com/games/*
 *.facebook.com/data/manifest/
+https://video.fdad3-3.fna.fbcdn.net
