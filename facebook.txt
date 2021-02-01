@@ -27,3 +27,5 @@ scontent.fdad3-1.fna.fbcdn.net
 scontent.fdad3-3.fna.fbcdn.net
 facebook.com/video/unified_cvc/*
 facebook.com/video/*
+facebook.com/data/manifest/*
+facebook.com/data/*
