@@ -24,5 +24,6 @@ video.l3.fbcdn.net
 facebook.com/games/*
 *.facebook.com/data/manifest/
 scontent.fdad3-1.fna.fbcdn.net
-video.fdad3-3.fna.fbcdn.net
 scontent.fdad3-3.fna.fbcdn.net
+facebook.com/video/unified_cvc/*
+facebook.com/video/*
