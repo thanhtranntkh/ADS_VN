@@ -23,8 +23,8 @@ video.l3.fbcdn.net
 *.fbcdn-video-p-a.akamaihd.ne
 facebook.com/games/*
 *.facebook.com/data/manifest/
-scontent.fdad3-1.fna.fbcdn.net
-scontent.fdad3-3.fna.fbcdn.net
+#scontent.fdad3-1.fna.fbcdn.net #Hinh ảnh
+#scontent.fdad3-3.fna.fbcdn.net #Hinh ảnh
 facebook.com/video/unified_cvc/*
 facebook.com/video/*
 facebook.com/data/manifest/*
