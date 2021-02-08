@@ -98,6 +98,21 @@ adcash.com
 gammaplatform.com
 innity.com
 
+# 2021
+
+cdn.innity.net
+static.amcdn.vn
+rtbcdn.andbeyond.media
+www.gstatic.com
+gstatic.com
+www.gstatic.com
+gstatic.com
+sb.scorecardresearch.com
+imasdk.googleapis.com
+static.criteo.net
+fundingchoicesmessages.google.com
+increaserev.com
+securepubads.g.doubleclick.net
 
 # access.adblox.net
 access.adblox.net
