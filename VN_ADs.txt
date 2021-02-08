@@ -198,4 +198,12 @@ images.lavamedia.vn
 lavamedia.vn
 delivery.lavanetwork.net
 cdnstoremedia.com
+# 2021
 
+cdn.innity.net
+static.amcdn.vn
+rtbcdn.andbeyond.media
+www.gstatic.com
+gstatic.com
+www.gstatic.com
+gstatic.com
