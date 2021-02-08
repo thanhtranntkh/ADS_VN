@@ -207,3 +207,10 @@ www.gstatic.com
 gstatic.com
 www.gstatic.com
 gstatic.com
+sb.scorecardresearch.com
+imasdk.googleapis.com
+static.criteo.net
+fundingchoicesmessages.google.com
+increaserev.com
+securepubads.g.doubleclick.net
+
