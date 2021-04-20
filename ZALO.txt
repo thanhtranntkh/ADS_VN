@@ -1,3 +1,4 @@
 zalo.me
 id.zalo.me
 stc.za.zaloapp.com
+chat.zalo.me
