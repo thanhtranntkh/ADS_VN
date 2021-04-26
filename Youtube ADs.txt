@@ -104,6 +104,11 @@ r97---sn-8pxuuxa-jmgz.googlevideo.com
 r98---sn-8pxuuxa-jmgz.googlevideo.com
 r99---sn-8pxuuxa-jmgr.googlevideo.com
 r100---sn-8pxuuxa-jmgr.googlevideo.com
+
+
+*.googlevideo.com
+googlevideo.com
+*8pxuuxa-jmgr.googlevideo.com
 0.googlevideo.com
 1.googlevideo.com
 2.googlevideo.com
