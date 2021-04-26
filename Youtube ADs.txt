@@ -1,4 +1,7 @@
 
+
+
+^r(\.|^)googlevideo\.com$
 r0---sn-8pxuuxa-jmgz.googlevideo.com
 r1---sn-8pxuuxa-jmgz.googlevideo.com
 r2---sn-8pxuuxa-jmgz.googlevideo.com
