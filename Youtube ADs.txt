@@ -156,6 +156,10 @@ ad.doubleclick.net
 doubleclick.net
 googleads.g.doubleclick.net
 static.doubleclick.net
+youtu.be
+googleapis.com
+s.ytimg.com
+
 
 r5---sn-npoeenee.googlevideo.com
 r6---sn-npoe7n7z.googlevideo.com
@@ -165,5 +169,8 @@ googleads.g.doubleclick.net
 doubleclick.net
 tpc.googlesyndication.com
 googlesyndication.com
+youtube.googleapis.com
+youtubei.googleapis.com
+youtube.googleapis.com
 
 
