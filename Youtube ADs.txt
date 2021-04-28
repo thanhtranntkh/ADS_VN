@@ -160,6 +160,6 @@ static.doubleclick.net
 r5---sn-npoeenee.googlevideo.com
 r6---sn-npoe7n7z.googlevideo.com
 suggestqueries-clients6.youtube.com
-
-
-
+googleads.g.doubleclick.net/pagead/id
+googleads.g.doubleclick.net
+doubleclick.net
