@@ -163,3 +163,7 @@ suggestqueries-clients6.youtube.com
 googleads.g.doubleclick.net/pagead/id
 googleads.g.doubleclick.net
 doubleclick.net
+tpc.googlesyndication.com
+googlesyndication.com
+
+
