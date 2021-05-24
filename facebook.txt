@@ -6,6 +6,7 @@ video.fdad1-1.fna.fbcdn.net
 video.fdad2-1.fna.fbcdn.net
 video-hkg4-1.xx.fbcdn.net
 video-hkg4-2.xx.fbcdn.net
+video-xsp1-3.xx.fbcdn.net
 video.fdad2-1.fna.fbcdn.net
 video.ak.fbcdn.net
 video.l3.fbcdn.net
