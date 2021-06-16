@@ -30,6 +30,19 @@ facebook.com/video/unified_cvc/*
 facebook.com/video/*
 facebook.com/data/manifest/*
 facebook.com/data/*
+### 06/2021####
+*sin6-1.xx.fbcdn.net
+*sin6-2.xx.fbcdn.net
+*sin6-3.xx.fbcdn.net
+
+*xsp1-1.xx.fbcdn.net
+*xsp1-2.xx.fbcdn.net
+*fhan3-1.xx.fbcdn.net
+
+
+*xsp1-3.xx.fbcdn.net
+
+
 
 
 ###Youtubbe###
