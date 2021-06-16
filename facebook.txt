@@ -44,6 +44,10 @@ facebook.com/data/*
 
 fb.watch
 
+video.fdad3-3.fna.fbcdn.net/hvideo*
+video-hkt1-1.xx.fbcdn.net/*
+video-hkt1-2.xx.fbcdn.net/*
+
 
 ###Youtubbe###
 youtube.be
