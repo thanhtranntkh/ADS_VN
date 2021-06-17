@@ -63,8 +63,10 @@ tiktokcdn.com
 v9.byteicdn.com
 byteicdn.com
 *.byteicdn.com
-
-
+sgali-mcs.byteoversea.com
+mon-va.byteoversea.com
+*.byteoversea.com
+byteoversea.com
 
 
 
