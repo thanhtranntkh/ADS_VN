@@ -1,0 +1,59 @@
+# AdAway default blocklist
+# Blocking mobile ad providers and some analytics providers
+#
+# Project home page:
+# https://github.com/AdAway/adaway.github.io/
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+# Kicelo, Dominik Schuermann.
+# Further changes and contributors maintained in the commit history at
+# https://github.com/AdAway/adaway.github.io/commits/master
+#
+# Contribute:
+# Create an issue at https://github.com/AdAway/adaway.github.io/issues
+#
+
+
+# [accesstrade.vn]
+127.0.0.1 cv.accesstrade.vn
+127.0.0.1 partner.accesstrade.vn
+127.0.0.1 service-api.accesstrade.vn
+127.0.0.1 static.accesstrade.vn
+127.0.0.1 track.accesstrade.vn
+
+#[vietnamaffiliate]
+127.0.0.1 vietnamaffiliate.com
+127.0.0.1 ns1.dan.com
+127.0.0.1 ns2.dan.com
+127.0.0.1 root.dan.com
+
+#[kiemtiencenter]
+
+127.0.0.1 kiemtiencenter.com
+127.0.0.1 zoe.ns.cloudflare.com
+127.0.0.1 carl.ns.cloudflare.com
+
+#[ditadi]
+127.0.0.1 ditadi.net
+127.0.0.1 lily.ns.cloudflare.com
+127.0.0.1 rocky.ns.cloudflare.com
+
+#[Ulu]
+127.0.0.1 Ulu.vn
+127.0.0.1 mary.ns.cloudflare.com
+127.0.0.1 stan.ns.cloudflare.com
+
+#[ecomobi]
+127.0.0.1 ecomobi.com
+127.0.0.1 ns-128.awsdns-16.com
+127.0.0.1 ns-1427.awsdns-50.org
+127.0.0.1 ns-1715.awsdns-22.co.uk
+127.0.0.1 ns-747.awsdns-29.net
+127.0.0.1 ns-128.awsdns-16.com
+
