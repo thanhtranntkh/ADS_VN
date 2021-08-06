@@ -2,6 +2,12 @@
 # License: GPLv3
 # Contact: support [at] disconnect.me
 
+###GOOGLE###
+pagead2.googlesyndication.com
+googleadservices.com
+tpc.googlesyndication.com
+
+
 #novanet
 novanet.vn
 ads.novanet.vn
