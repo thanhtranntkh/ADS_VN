@@ -236,4 +236,12 @@ www.samkyvuong.com/banlinhdanong
 ###Youtubbe###
 youtube.be
 youtu.be
-
+ ##SMN###
+ api.taboola.com
+taboola.com
+ad-log.dable.io
+dable.io
+acdn.adnxs-simple.com
+www.mgid.com
+mgid.com
+s-img.mgid.com
