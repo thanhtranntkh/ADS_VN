@@ -185,6 +185,20 @@ samkyvuong.com
 www.samkyvuong.com
 www.samkyvuong.com/banlinhdanong
 
+ ##SMN###
+ api.taboola.com
+taboola.com
+ad-log.dable.io
+dable.io
+acdn.adnxs-simple.com
+www.mgid.com
+mgid.com
+s-img.mgid.com
 
+
+##Google##
+pagead2.googlesyndication.com
+googleadservices.com
+tpc.googlesyndication.com
 
 
