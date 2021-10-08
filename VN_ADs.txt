@@ -240,8 +240,8 @@ www.samkyvuong.com
 www.samkyvuong.com/banlinhdanong
 
 ###Youtubbe###
-youtube.be
-youtu.be
+#youtube.be
+#youtu.be
  ##SMN###
  api.taboola.com
 taboola.com
