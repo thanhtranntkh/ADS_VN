@@ -73,7 +73,7 @@ cdn.gamevh.net
 .facebook.com/gaming/play/?store_visit_source=games_bookmark
 apps-611804185926231.apps.fbsbx.com
 .apps.fbsbx.com
-scontent.fdad3-3.fna.fbcdn.net
+
 .fdad3-3.fna.fbcdn.net
 
 
