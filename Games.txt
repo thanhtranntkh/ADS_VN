@@ -1,3 +1,7 @@
+### API FAC##
+developers.facebook.com/docs/graph-api
+graph.facebook.com/network_ads_common
+
 ####Co Tuong###
 api.zingplay.me
 ws-api.zingplay.me
@@ -8,3 +12,7 @@ xqchess.com
 cdn.xqchess.com
 
 apps.fbsbx.com
+cdn.gamevh.net
+.gamevh.net
+.apps.fbsbx.com
+.fbsbx.com
