@@ -68,6 +68,13 @@ mon-va.byteoversea.com
 *.byteoversea.com
 byteoversea.com
 
+####Games #####
+
+.facebook.com/gaming/play/?store_visit_source=games_bookmark
+apps-611804185926231.apps.fbsbx.com
+.apps.fbsbx.com
+
+
 
 
 
