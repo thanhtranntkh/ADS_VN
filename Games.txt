@@ -21,3 +21,7 @@ cdn.gamevh.net
 #### play-zing-vn ###
 myplay.static.g6.zing.vn
 play.zing.vn
+tala-2-game.service.zingplay.com
+*.service.zingplay.com
+service.zingplay.com
+.zingplay.com
