@@ -1,5 +1,10 @@
 ####Co Tuong###
+api.zingplay.me
+ws-api.zingplay.me
+stc-avatar.zadn.vn
 kyvuong.mobi
 
 xqchess.com
 cdn.xqchess.com
+
+apps.fbsbx.com
