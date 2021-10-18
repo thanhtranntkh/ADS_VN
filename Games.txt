@@ -16,3 +16,8 @@ cdn.gamevh.net
 .gamevh.net
 .apps.fbsbx.com
 .fbsbx.com
+
+
+#### play-zing-vn ###
+myplay.static.g6.zing.vn
+play.zing.vn
