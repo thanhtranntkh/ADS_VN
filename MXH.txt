@@ -1,0 +1,10 @@
+
+
+### INSTAGRAM:###
+*.cdninstagram.com
+*.instagram.com
+##TIKTOK:###
+*.tiktokcdn.com
+*.tiktokv.com
+*.amemv.com 
+*.musical.ly4
