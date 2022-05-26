@@ -5,3 +5,6 @@ chat.zalo.me
 zalo-api.zadn.vn
 s120-ava-talk.zadn.vn
 zadn.vn
+px.dmp.zaloapp.com
+trk-pcweb.api.zaloapp.com
+zaloapp.com
