@@ -2,3 +2,6 @@ zalo.me
 id.zalo.me
 stc.za.zaloapp.com
 chat.zalo.me
+zalo-api.zadn.vn
+s120-ava-talk.zadn.vn
+zadn.vn
