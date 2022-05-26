@@ -8,3 +8,7 @@ zadn.vn
 px.dmp.zaloapp.com
 trk-pcweb.api.zaloapp.com
 zaloapp.com
+profile-wpa.chat.zalo.me
+voicecall-wpa.chat.zalo.me
+p5-msg.chat.zalo.me
+f60-zpg-r.zdn.vn
