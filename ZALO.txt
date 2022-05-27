@@ -12,3 +12,5 @@ profile-wpa.chat.zalo.me
 voicecall-wpa.chat.zalo.me
 p5-msg.chat.zalo.me
 f60-zpg-r.zdn.vn
+qos.talk.zing.vn
+chat1.wpa.chat.zalo.me
