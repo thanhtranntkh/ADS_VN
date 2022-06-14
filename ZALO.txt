@@ -14,3 +14,15 @@ p5-msg.chat.zalo.me
 f60-zpg-r.zdn.vn
 qos.talk.zing.vn
 chat1.wpa.chat.zalo.me
+sse.zalopay.vn
+cps.zalopay.com.vn
+scard.zalopay.vn
+uudai.zalopay.vn
+stracking.zalopay.vn
+socialdev.zalopay.vn
+sapi.zalopay.vn
+social.zalopay.vn
+rdx.zalopay.vn
+user-life-cycle-public.zalopay.vn
+res-conf.zaloapp.com
+
